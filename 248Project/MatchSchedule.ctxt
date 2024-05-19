@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MatchSchedule
+comment1.params=
+comment1.target=MatchSchedule()
+comment10.params=
+comment10.target=int\ getCapacity()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=
+comment12.target=boolean\ isHomeVenue()
+comment2.params=teamName\ date\ time\ venue\ venueCapacity
+comment2.target=MatchSchedule(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=teamName
+comment3.target=void\ setTeamName(java.lang.String)
+comment4.params=matchSlot
+comment4.target=void\ setSlot(Slot)
+comment5.params=venue
+comment5.target=void\ setVenue(java.lang.String)
+comment6.params=venueCapacity
+comment6.target=void\ setCapacity(int)
+comment7.params=
+comment7.target=java.lang.String\ getTeamName()
+comment8.params=
+comment8.target=Slot\ getSlot()
+comment9.params=
+comment9.target=java.lang.String\ getVenue()
+numComments=13
